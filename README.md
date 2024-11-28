@@ -1,16 +1,22 @@
 <!-- Profile README -->
 
-<h1 align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Hamza Amin
+  <h1>Hi, I'm Hamza Amin</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+</div>
 
-<h3 align="center">🚀 Software Engineer | AI & ML Enthusiast | Android Developer | DevOps Practitioner</h3>
+<div align="center">
+  <h3>🚀 Software Engineer | AI & ML Enthusiast | Android Developer | DevOps Practitioner</h3>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+awesome+apps+and+systems;AI+%7C+ML+%7C+Android+%7C+DevOps;Let's+collaborate+and+innovate!" alt="Typing SVG" />
-</p>
+---
+
+<div style="background: url('https://i.imgur.com/e6MIe78.gif') no-repeat center; background-size: cover; padding: 20px; border-radius: 10px;">
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+awesome+apps+and+systems;AI+%7C+ML+%7C+Android+%7C+DevOps;Let's+collaborate+and+innovate!" alt="Typing SVG" />
+  </h2>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" height="200">
